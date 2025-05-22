@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm **Kidus Panda** 👋  
+### Hi there, I'm **Kidus Surafel** 👋  
 🔭 Currently working with **React & Django**  
 🌱 Learning **JavaScript, Data Analysis & Flutter**  
 🎯 Passionate about **AI, web development, and problem-solving**  
@@ -10,9 +10,7 @@
 ## 🌍 My Learning Journey:  
 🚀 **2022 - Started My Programming Journey** → Self-taught developer with a passion for learning and building.  
 📚 **2023 - Completed CS50P** → Harvard's *Introduction to Programming with Python*.  
-🌐 **2023 - Explored Web Development** → Learned Django, JavaScript, and started working on full-stack projects.  
-📌 **Early 2024 - Mastered JavaScript & React** → Built multiple projects and deepened my understanding of modern web development.  
-📈 **Mid 2024 - Learning Data Analysis & Flutter** → Expanding my skills into data-driven applications and cross-platform mobile development.  
+🌐 **2023 - Explored Web Development** → Learned Django, JavaScript, and started working on full-stack projects. 
 🎥 **Consistent Learning** → Supplemented courses with YouTube tutorials, articles, and hands-on projects.  
 💡 **Future Goals** → Dive deeper into AI, Full-Stack Development, and contribute to open-source projects.  
 
@@ -22,7 +20,7 @@
 ---
 
 # 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/#)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25660202/kidus-surafel)  [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KidusPanda1824)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZQz7rScTBd-8MH4TGDOccA)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seeh51593@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kidus-surafel)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25660202/kidus-surafel)  [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KidusPanda1824)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZQz7rScTBd-8MH4TGDOccA)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seeh51593@gmail.com)  
 
 ---
 # 💻 Tech Stack:
