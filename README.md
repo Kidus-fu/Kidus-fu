@@ -50,7 +50,6 @@
 
 # 🌟 Featured Projects:
 - 📝 **[MemoEthiopia](https://github.com/Kidus-fu/MemoEthiopia)** → A modern note-taking app built with React & Django  
-- 🌍 **[Ditcoin](https://github.com/Kidus-fu/Ditcoine)** → A crypto news & airdrop platform  
 
 ---
 
