@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there, I'm **Kidus Surafel** 👋  
 🔭 Currently working with **React & Django**  
-🌱 Learning **JavaScript, Data Analysis & Flutter**  
+🌱 Learning **JavaScript, Data Analysis & AI Agent**  
 🎯 Passionate about **AI, web development, and problem-solving**  
 ⚡ Fun fact: I love building cool projects & exploring new tech!  
 
