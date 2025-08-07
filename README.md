@@ -29,9 +29,9 @@
 ---
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kidus-fu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidus-fu&theme=tokyonight&hide_border=false&layout=pie" width="400" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kidus-fu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidus-fu&theme=tokyonight&hide_border=false&layout=pie" width="300" />
 </div>
 
 ---
